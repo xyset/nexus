@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
+
 # -----------------------------------------------------------------------------
 # 1) Ensure Rust is installed.
 #    - First, check if rustc is available. If not, install Rust non-interactively
