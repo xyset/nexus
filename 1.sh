@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt install -y build-essential pkg-config libssl-dev git-all protobuf-compiler
+sudo apt install -y build-essential pkg-config libssl-dev git-all
 
 # -----------------------------------------------------------------------------
 # 1) Ensure Rust is installed.
